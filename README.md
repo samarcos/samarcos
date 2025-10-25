@@ -28,7 +28,7 @@ Trabalhando: Atividades nas areas Gerente de Data Center | Administrador de Data
      <img align="center" alt="Sa-Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
           
 </div>
-
+--------
 <!-- Infraestrutura -->
 <div style="display: inline_block"><br>
    <img align="center" alt="Sa-Aws" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />                
@@ -36,14 +36,13 @@ Trabalhando: Atividades nas areas Gerente de Data Center | Administrador de Data
    <img align="center" alt="Sa-Redhat" height="30" width="100" img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
    <img align="center" alt="Sa-Ansible" height="30" width="100" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />   
    <img align="center" alt="Sa-Openstack" height="30" width="100" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg" />
-    <img align="center" alt="Sa-Google Cloud" height="30" width="100" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img align="center" alt="Sa-Vmware" height="30" width="100" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
+   <img align="center" alt="Sa-Google Cloud" height="30" width="100" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+   <img align="center" alt="Sa-Vmware" height="30" width="100" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
    <img align="center" alt="Sa-Docker" height="30" width="100" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-   
-
+   <img align="center" alt="Sa-Proxmox" height="30" width="100" src="https://img.shields.io/badge/Proxmox-E57000?&style=plastic&logo=Proxmox&logoColor=white" />
+     
 </div>       
-
-
+--------
 <!-- Redes Socias -->
 <div><br>
   <a href="www.linkedin.com/in/marcos-j-p-sa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
